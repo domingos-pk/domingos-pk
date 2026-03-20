@@ -1,10 +1,14 @@
 # 👨🏾‍💻 Domingos Pedro Kanga
 
-**`Desenvolvedor FullStack`**
+**`Full Stack Developer`**
+
+I'm Domingos Pedro Kanga — a student and software developer passionate about building clean, high-performance digital products. From responsive websites to mobile applications and robust APIs, I approach every project with a software engineering mindset focused on scalability and maintainability.
+
+
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -153,7 +157,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -161,13 +165,13 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=domingos-pk&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=domingos-pk&show_icons=true&theme=dracula&include_all_commits=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingos-pk&stats_format=bytes&theme=dracula&include_all_commits=true&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingos-pk&stats_format=bytes&theme=dracula&include_all_commits=true" 
   />
 <br/>
